@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "../App.css";
 
 function StreamList() {
     const [movie, setMovie] = useState("");
